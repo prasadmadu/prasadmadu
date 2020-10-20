@@ -38,3 +38,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadmadu&show_icons=true)
 
+---
+
+![GitHub metrics](https://metrics.lecoq.io/prasadmadu)  
+
