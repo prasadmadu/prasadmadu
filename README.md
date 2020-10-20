@@ -40,6 +40,6 @@
 
 ---
 
-![GitHub metrics](https://metrics.lecoq.io/prasad)  
+![GitHub metrics](https://metrics.lecoq.io/prasadmadu)  
 
 
