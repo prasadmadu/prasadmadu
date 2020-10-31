@@ -36,6 +36,10 @@
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadmadu" alt="prasadmadu" /></a> </p>
+
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadmadu&show_icons=true)
 
 ---
